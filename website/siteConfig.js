@@ -218,6 +218,11 @@ const users = [
     image: '/jest/img/logos/xing.png',
     infoLink: 'https://www.xing.com/',
   },
+  {
+    caption: 'Ulabox',
+    image: '/jest/img/logos/ulabox.png',
+    infoLink: 'https://www.ulabox.com/',
+  }
 ];
 
 const siteConfig = {
